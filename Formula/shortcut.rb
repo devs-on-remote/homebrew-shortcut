@@ -1,8 +1,8 @@
 class Shortcut < Formula
   desc 'A CLI tool enhancing your terminal usage by allowing you to save your most used commands/scripts and then executing them in no time.  '
   homepage 'https://github.com/devs-on-remote/shortcut'
-  url 'https://github.com/devs-on-remote/shortcut/archive/1.0.0.tar.gz'
-  sha256 '48da88b1d8dc526c299d69531daed3ecf4a1485ddb71e685f03d38ca1ca84913'
+  url 'https://github.com/devs-on-remote/shortcut/archive/1.0.1.tar.gz'
+  sha256 '6f3df98cc4360a5f5226e436c2d2ac9ae787e6b93a4ffbd76f2c8db56c3641f8'
 
   depends_on 'ruby'
 
